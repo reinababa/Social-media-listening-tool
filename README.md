@@ -5,7 +5,7 @@ Description: This tool monitors and analyzes online conversations about a specif
 
 Specific keyword example: Travel to dubai
 
-Output shown in picture: Dashboard 1.1
+Output shown in picture: "Output Dashboard"
 
 Tool used: PowerBI and Power Query
 
