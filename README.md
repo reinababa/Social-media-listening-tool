@@ -13,3 +13,6 @@ APIS needed:
 - Twitter extract API
 - Sentiment analysis API
 - Keyphrase extraction API
+
+
+<img width="592" alt="Output Dashboard" src="https://user-images.githubusercontent.com/84024820/154554599-0600f672-a0d4-465e-b4da-ed13f7efce2d.png">
